@@ -1,0 +1,7 @@
+%include 'dictionary/arithmetic.inc'
+%include 'dictionary/logic.inc'
+%include 'dictionary/ds.inc'
+%include 'dictionary/rs.inc'
+%include 'dictionary/util.inc'
+%include 'dictionary/colon.inc'
+%include 'dictionary/system.inc'
